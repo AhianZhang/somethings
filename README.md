@@ -11,7 +11,7 @@
 3. 创作
 4. 优化
 
-<video controls width="600">
-  <source src="asset/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+# 功能简介
+https://github.com/user-attachments/assets/dedc80b6-f424-4647-ab2e-359551ac7ba0
+
